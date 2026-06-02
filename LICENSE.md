@@ -1,4 +1,4 @@
-# 
+# Código aberto FreshBooks scripts para Mac OS | Personalizado FreshBooks scripts para PC Windows. Com suporte a multi-dispositivos e ferramentas de colaboração — otimizado para máximo desempenho em cada plataforma.
 
 
 
